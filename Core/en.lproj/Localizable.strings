@@ -1,0 +1,20 @@
+/* 
+  Localized.strings
+  CodingChallenge
+
+  Created by Aleksander Wędrychowski on 11/11/2021.
+  
+*/
+
+"ok" = "OK";
+
+"shifts.title" = "Shifts";
+"shifts.search" = "Search";
+"shifts.address.input" = "Searched address";
+"shifts.date.input" = "Searched date";
+
+"details.title" = "Shift details";
+
+"networking.error.badRequest" = "Invalid server request";
+"networking.error.unableToDecode" = "Invalid server response";
+"networking.error.unknown" = "Unknown error";
